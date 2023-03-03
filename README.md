@@ -11,4 +11,6 @@
 
 </div>_ _
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beginnercreator017&show_icons=true&theme=gruvbox)
+
+
 <a href = "mailto:contatoemailthiagos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
