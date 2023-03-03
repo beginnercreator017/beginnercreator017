@@ -1,4 +1,4 @@
-alt= Olá! Eu sou o Thiago, ma
+## Olá! Eu sou o  Thiago, mais um curioso e aspirante no mundo da programação, tecnologia e desenvolvimento!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -8,11 +8,8 @@ alt= Olá! Eu sou o Thiago, ma
 </div>
   
   ##
- 
-<div _
-     <a href = "mailto:contatoemailthiagos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-sales-terra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+
+
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beginnercreator017&show_icons=true&theme=gruvbox)
