@@ -17,6 +17,28 @@ Olá! Eu sou o Thiago, mais um curioso e aspirante no mundo de códigos, program
 
 Nome : Gerar Dados
 
+em :
+  cronograma : # executar a cada 12 horas
+    - cron : " * */12 * * * "
+  workflow_dispatch :
 
+trabalhos :
+  construir :
+    nome : Jobs para atualizar dados
+    run-on : ubuntu-latest
+    passos :
+      # Animação de Cobra
+      - usa : Platane/snk@master
+        id : cobra-gif
+        com :
+          github_user_name : beginnercreator017
+          svg_out_path : dist/github-contribution-grid-snake.svg
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beginnercreator017)](https://github.com/anuraghazra/github-readme-stats)
+      - usa : crazy-max/ghaction-github-pages@v2.1.3
+        com :
+          target_branch : saída
+          build_dir : dist
+        ambiente :
+          GITHUB_TOKEN : ${{ segredos.GITHUB_TOKEN }}
+          
+          
