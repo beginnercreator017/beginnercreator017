@@ -1,4 +1,4 @@
-Olá! Eu sou o Thiago, mais um curioso e entusiast no mundo da programação, criação e desenvolvimento!
+Olá! Eu sou o Thiago, mais um curioso e aspirante no mundo de códigos, programação e desenvolvimeto!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
